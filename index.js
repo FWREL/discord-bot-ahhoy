@@ -3,7 +3,7 @@ const bot = new Discord.Client();
 
 const token = 'NTgzNTAxMTYwMTM3MzU5Mzgx.XO977A.NUQFFaiecaCBFF13YucQnZYmtYM'
 
-const PREFIX = 'ahh';
+const PREFIX = '>';
 
 var version = '1.0.1';
 
