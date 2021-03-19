@@ -1,2 +1,2 @@
 # discord-bot-ahhoy
-test bot ahhoy
+Simple Bot For Discord
